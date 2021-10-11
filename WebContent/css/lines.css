@@ -1,0 +1,21 @@
+ hr.line-blue-left {
+        border: 0;
+        height: 5px;
+        background-color: #41a9c6;
+        width: 66px;
+        margin-left: 0px;}
+ 
+ 
+    hr.line-orange-center {
+            border: 0;
+            height: 3px;
+            background-color: #FFD700;
+            width: 166px;}
+     
+ 
+    hr.line-green-right {
+            border: 0;
+            height: 5px;
+            background-color: #2cba6c;
+            width: 66px;
+            margin-right: 0px;}

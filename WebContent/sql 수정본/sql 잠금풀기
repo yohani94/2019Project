@@ -1,0 +1,21 @@
+Microsoft Windows [Version 10.0.17134.523]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\wolf>sqlplus "/as sysdba"
+
+SQL*Plus: Release 11.2.0.2.0 Production on ¸ñ 1¿ù 10 14:57:02 2019
+
+Copyright (c) 1982, 2014, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+
+
+SQL> alter user hr account unlock;
+
+User altered.
+
+
+SQL> conn hr/0000
+Connected.
